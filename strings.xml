@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MathBomb</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="classicrules">You get ten points for every correct answer. Wrong answers will end the game!</string>
+    <string name="arcaderules">You have 60 seconds in the round.Ten points for every correct answer. No negatives!</string>
+    <string name="wildrules">You have 90 seconds in the round.Ten points for every correct answer, and -5 points for every wrong answer!</string>
+</resources>
